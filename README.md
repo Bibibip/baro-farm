@@ -43,6 +43,7 @@ https://youtu.be/ygQR53eN-Q0?si=K03Bpz06YJkgmtfc
 
 ## 📄 Original Repository
 This repository is a personal portfolio version of the original team project.
-- Original Repository: https://github.com/BaroFarm/baro-farm
-- Development Setup Guide: ./docs/setup.md
-- Git Workflow Guide: ./docs/git-guide.md
+
+- Original Repository: https://github.com/BaroFarm/baro-farm  
+- [개발 환경 세팅 가이드](./docs/setup.md)
+- [Git 규칙](./docs/git-guide.md)
